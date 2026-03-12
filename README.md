@@ -28,3 +28,13 @@ I build end-to-end analytics projects using SQL, BigQuery, and Power BI to analy
 - Funnel Analysis
 - Data Visualization
 - KPI Reporting
+
+## Portfolio Projects
+
+All projects use the Google BigQuery public dataset **thelook_ecommerce** and demonstrate end-to-end analytics workflow including:
+
+- Data cleaning and transformation using SQL
+- Analytical table construction
+- Business metric calculation
+- Power BI dashboard visualization
+- Insight generation for business decision making
