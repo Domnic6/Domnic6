@@ -1,16 +1,30 @@
-## Hi there 👋
+# Domnic Sunny
 
-<!--
-**Domnic6/Domnic6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in SQL, Google BigQuery, Power BI, Excel, and Python.
 
-Here are some ideas to get you started:
+I build end-to-end analytics projects using SQL, BigQuery, and Power BI to analyze business performance, customer behavior, revenue trends, and support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- Ecommerce Revenue Growth & Forecasting Analysis
+- Ecommerce Customer Conversion Funnel & Drop-off Analysis
+- Ecommerce Category Portfolio & Business Performance Analysis
+
+## Tools
+
+- SQL
+- Google BigQuery
+- Power BI
+- Excel
+- Python
+- GitHub
+- Google Analytics 4
+
+## Focus Areas
+
+- Business Analytics
+- Ecommerce Analytics
+- Product Analytics
+- Funnel Analysis
+- Data Visualization
+- KPI Reporting
