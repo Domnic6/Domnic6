@@ -11,6 +11,7 @@ I build end-to-end analytics projects using SQL, BigQuery, and Power BI to analy
 - [Prpject: Ecommerce Customer Conversion Funnel & Drop-off Analysis](https://github.com/Domnic6/ecommerce-customer-conversion-funnel-analysis)
 - ![Customer Category conversion Funnel Dashboard](https://github.com/Domnic6/ecommerce-customer-conversion-funnel-analysis/blob/main/Conversion%20Funnel%20Dashboard.png)
 - [Project: Ecommerce Category Portfolio & Business Performance Analysis](https://github.com/Domnic6/ecommerce-category-portfolio-business-performance-analysis)
+- ![Category Portfolio Performance Dashboard](https://github.com/Domnic6/ecommerce-category-portfolio-business-performance-analysis/blob/main/category_portfolio_dashboard.png)
 
 ## Tools
 
