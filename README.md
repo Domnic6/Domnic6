@@ -6,7 +6,8 @@ I build end-to-end analytics projects using SQL, BigQuery, and Power BI to analy
 
 ## Projects
 
-- [Ecommerce Revenue Growth & Forecasting Analysis](https://github.com/Domnic6/ecommerce-revenue-growth-and-forecasting-analysis)(Revenue Growth Dashboard.png)
+- [Ecommerce Revenue Growth & Forecasting Analysis](https://github.com/Domnic6/ecommerce-revenue-growth-and-forecasting-analysis)
+- ![Revenue Growth and Forecasting Dashboard](Revenue Growth Dashboard.png)
 - [Ecommerce Customer Conversion Funnel & Drop-off Analysis](https://github.com/Domnic6/ecommerce-customer-conversion-funnel-analysis)
 - [Ecommerce Category Portfolio & Business Performance Analysis](https://github.com/Domnic6/ecommerce-category-portfolio-business-performance-analysis)
 
